@@ -1,1 +1,5 @@
-footer.hbt
+      <footer>
+    made with <a href="http://www.metalsmith.io/">metalsmith</a>
+  </footer>
+</body>
+</html>"

@@ -13,7 +13,8 @@
     "metalsmith-tags": "^0.6.1",
     "metalsmith-templates": "^0.5.2",
     "metasmith": "0.0.1",
-    "moment": "^2.8.3"
+    "moment": "^2.8.3",
+    "metalsmith-pagination": "~1.1.1"
   },
   "main": "index.js",
   "scripts": {
